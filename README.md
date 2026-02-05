@@ -27,7 +27,7 @@ I am a Cybersecurity student at Augusta University (Class of 2027) with a passio
 ---
 
 ### 📜 Certifications
-* **CompTIA Security+**
+* **CompTIA Security+**(IP)
 
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/) (Add your link here!)
