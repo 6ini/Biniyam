@@ -11,7 +11,7 @@ I am a Cybersecurity student at Augusta University (Class of 2027) with a passio
 | **SIEM & Monitoring** | Sentinel,Wazuh, Splunk, Wireshark |
 | **Networking** | Cisco Packet Tracer, VLANs, Trunking, TCP/IP |
 | **Security Tools** | Nmap, Hydra , Metasploit, OpenVAS |
-| **Operating Systems** | Kali Linux, Windows 11, Remnux (Malware Analysis) |
+| **Operating Systems** | Kali Linux, Windows 11, |
 | **Scripting** | Python, PowerShell |
 
 ---
