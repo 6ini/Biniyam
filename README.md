@@ -30,5 +30,5 @@ I am a Cybersecurity student at Augusta University (Class of 2027) with a passio
 * **CompTIA Security+**(IP)
 
 ### 📫 Connect with Me
-* [LinkedIn](www.linkedin.com/in/biniyam-zawudie-7a7ab3399) 
+* [LinkedIn](www.linkedin.com/in/biniyam-zawudie) 
 * [Email](mailto:bzawudie@augusta.edu)
