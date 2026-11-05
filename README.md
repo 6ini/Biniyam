@@ -1,5 +1,5 @@
 # Hi there, I'm Biniyam! 👋
-### Aspiring SOC Analyst & Network Defender
+### Aspiring SOC Analyst & Network Eingineer
 
 I am a Cybersecurity student at Augusta University (Class of 2027) with a passion for Blue Team operations, Network Defense, and Threat Detection. I built an enterprise-grade environment to simulate different types of attacks and analyze them.
 
